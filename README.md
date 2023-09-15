@@ -1,4 +1,4 @@
-# HTML Hello  https://github.com/4GeeksAcademy/Sweetipi02-Instagrampost
+# HTML Hello  https://github.com/4GeeksAcademy/SweetipInstagramFeed
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
 
