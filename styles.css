@@ -1,24 +1,42 @@
+/* *{
+    border: 1px dashed red;
+} */
 body{
-    background: lightgray;
-    margin: 0;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    width: 454px;
+    margin: auto;
 }
-header{
-    background: white;
-    padding: 10px;
+.date{
+    float: right;
+    margin-top: -50px;
+}
+.title{
+    float: left;
+}
+
+div{
+    box-sizing: border-box;
+}
+.header{
+    background-color: white;
+    text-align: center;
 }
 header h1{
     margin: 0;
 }
 div.post{
     background: white;
+    margin-top: 10px;
 }
 div.post img{
     width: 100%;
 }
+
 div.post h2, div.post p{
     padding: 10px;
+    margin: 0;
 }
 div.container{
-    width: 600px;
+    width: 454px;
     margin: auto;
 }
